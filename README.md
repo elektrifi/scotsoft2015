@@ -1,0 +1,1 @@
+Presentation and R code snippets for ScotSoft 2015 developer session. Presentation shows the architecture we're working on. 
